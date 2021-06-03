@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter concerning the souldiers and their orders about the commissioners sent from the Parliament, to treat with the Kings Majesty. And the souldiers resolutions, and intentions therin also a letter concerning the levying of 91 regiaments of horse and foot in Scotland. With a list of the Lords, and other collonels of the said regiaments. And the declaration of the Committee of Scotland.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87918</idno><idno type="EEBO-CITATION">99864582</idno>
+  <idno type="VID">116813</idno>
+  <idno type="EEBO-PROQUEST">2248529449</idno>
+  
+            <idno type="STC">Wing L1355</idno>
+            <idno type="STC">Thomason E464_10</idno>
+            <idno type="STC">ESTC R205144</idno>
+            <idno type="PROQUEST">99864582</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864582e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116813)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E464[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter concerning the souldiers and their orders about the commissioners sent from the Parliament, to treat with the Kings Majesty. And the souldiers resolutions, and intentions therin also a letter concerning the levying of 91 regiaments of horse and foot in Scotland. With a list of the Lords, and other collonels of the said regiaments. And the declaration of the Committee of Scotland.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Smithurst, neer Pye-corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept ye 18th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, c1600-1649 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116813:1"/>
+            <p>A LETTER Concerning The Souldiers and their Orders about the Commissioners sent from the Parlia<g ref="char:EOLhyphen"/>ment, to Treat with the Kings Majesty.</p>
+            <p>AND THE <hi>Souldiers resolutions, and intentions therin</hi>
+            </p>
+            <p>ALSO A Letter concerning the levying of 91 Regiaments of Horse and Foot in <hi>SCOTLAND.</hi>
+            </p>
+            <p>WITH A List of the Lords, and other Collo<g ref="char:EOLhyphen"/>nels of the said Regiaments. And the DECLARATION of the Committee of <hi>Scotland.</hi>
+            </p>
+            <p>
+               <hi>London</hi> Printed for <hi>R. Smithurst,</hi> neer Pye-corner, 1648. <add>Sept y<seg rend="sup">e</seg> 18<seg rend="sup">th</seg>
+               </add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:116813:2"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>A LETTER From PORTSMOUTH</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE King is very busie in advise with the Lords and the rest attend<g ref="char:EOLhyphen"/>ing His Majesty; There seemes to be great hopes that the Treaty will produce good; His Majesty seeming (now) to be more willing to comply then ever; The Commissioners are expected here: And there is a guard appointed to see the Commissio<g ref="char:EOLhyphen"/>ners
+<pb n="2" facs="tcp:116813:3"/>safe arivall, and that al mutinies, or insurrections that may disturbe the Treaty be prevented, and that there may be a free passage, between the King, and the Commissioners, and the Parliament. The Ar<g ref="char:EOLhyphen"/>my do acquiesse to the resolutions of the Parliament, and doe not at all interpose the Treaty, expecting, and hoping the performance of what is promised both by His Majesty and the Parliament, that is, to injoy an happy and long looked for peace, and enjoy<g ref="char:EOLhyphen"/>ment of the Subjects Liberties.</p>
+            <closer>
+               <dateline>Portsmouth <date>15 Sep. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>THe Committee of Estates are labouring to raise Forces for defence of their owne Kingdome as they pretend, and have chosen 91 Collonels of Horse and Foot for every shire, respectively; A List of which I have sent you. It is believed that upon Lieu. <hi>G. Crum<g ref="char:EOLhyphen"/>wells</hi> comming to <hi>Barwicke,</hi> the Clergy and the Marquesse of <hi>Arguile,</hi> will prevaile with the King<g ref="char:EOLhyphen"/>dome of <hi>Scotland,</hi> to answer what shall be expected, and deliver the treacherous and perfideous Revolters to justice.</p>
+            <closer>
+               <dateline>Newcastle <date>12 Sep. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_Colonels_of_Horse_and_Foot">
+            <list>
+               <head>A List of the Collonels of Horse and Foot, appointed in <hi>Scotland,</hi> for the severall Sheriffedomes and bounds thereof, for preserv<g ref="char:EOLhyphen"/>ing of Peace, and keeping his Majesties Subjects in a dutifull obedience to the Laws, and publique Judi<g ref="char:EOLhyphen"/>catories, and in a Christian unity among Themselves.</head>
+               <item>4 Regiments for the Sheriffedom of <hi>Edenburgh.</hi>
+                  <list>
+                     <item>Earl of <hi>Dalhonshie.</hi>
+                     </item>
+                     <item>Lord <hi>Croustone.</hi>
+                     </item>
+                     <pb n="3" facs="tcp:116813:3"/>
+                     <item> Lord <hi>Balmerino,</hi>
+                     </item>
+                     <item>Laird of <hi>Collintown.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>5 Regiments for the Constablery of <hi>Hardingtoun, &amp;c.</hi>
+                  <list>
+                     <item>Earl of <hi>Lawderdaile,</hi>
+                     </item>
+                     <item>Earl of <hi>Wintown,</hi>
+                     </item>
+                     <item>Earl of <hi>Twedale.</hi>
+                     </item>
+                     <item>Lord <hi>Humbie.</hi>
+                     </item>
+                     <item>Laird of <hi>Waughtown.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>2 Regiments for the Sheriffedom of <hi>Peeble.</hi>
+                  <list>
+                     <item>Laird of <hi>Prestoun granist.</hi>
+                     </item>
+                     <item>Laird of <hi>Dawick</hi> junior.</item>
+                  </list>
+               </item>
+               <item>4 Regiaments for the Sheriffedome of <hi>Barwick.</hi>
+                  <list>
+                     <item>Earl of <hi>Home.</hi>
+                     </item>
+                     <item>Earl of <hi>Haddingtown.</hi>
+                     </item>
+                     <item>Laird of <hi>Langtown,</hi>
+                     </item>
+                     <item>Laird of <hi>Plandergast.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>4 Regiam. for the Sheriffedome of <hi>Roxborough, &amp;c.</hi>
+                  <list>
+                     <item>Earl of <hi>Roxborough.</hi>
+                     </item>
+                     <item>Earl of <hi>Buclench.</hi>
+                     </item>
+                     <item>Earl of <hi>Lothian.</hi>
+                     </item>
+                     <item>Sheriffe of <hi>Tivitdale.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>2 Regiaments for <hi>Laneriek.</hi>
+                  <list>
+                     <item>Earl of <hi>Lanerick.</hi>
+                     </item>
+                     <item>Collonell <hi>Hamilton.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>5 Regiaments for <hi>Dumfriez.</hi>
+                  <list>
+                     <item>Earl of <hi>Nithisdale.</hi>
+                     </item>
+                     <item>Earle of <hi>Dumfriez.</hi>
+                     </item>
+                     <item>Laird of <hi>Kelhead.</hi>
+                     </item>
+                     <item>Laird of <hi>Lag.</hi>
+                     </item>
+                     <item>Laird of <hi>Mouswall,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>7 Regiaments for the Sheriffedome of <hi>Fiffe, &amp;c.</hi>
+                  <list>
+                     <item>Earl of <hi>Crawford,</hi>
+                     </item>
+                     <item>Earl of <hi>Roths,</hi>
+                     </item>
+                     <item>Earl of <hi>Dunfartling.</hi>
+                     </item>
+                     <item>Lord <hi>Sinclaire.</hi>
+                     </item>
+                     <item>Lord <hi>Brughlie.</hi>
+                     </item>
+                     <item>Lord <hi>Belcaris.</hi>
+                     </item>
+                     <item>Lord <hi>Elcho.</hi>
+                     </item>
+                  </list>
+               </item>
+               <pb n="4" facs="tcp:116813:4"/>
+               <item> 5 Regi. for the Sheriffedome of <hi>Forfer.</hi>
+                  <list>
+                     <item>Earl of <hi>Buchane,</hi>
+                     </item>
+                     <item>Viscount of <hi>Dudope,</hi>
+                     </item>
+                     <item>Lord <hi>Spynie.</hi>
+                     </item>
+                     <item>Lord <hi>Briechen,</hi>
+                     </item>
+                     <item>Lord <hi>Loure.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>7 Regia. for the Sheriffedome of <hi>Perth.</hi>
+                  <list>
+                     <item>Earl of <hi>Athoill,</hi>
+                     </item>
+                     <item>Earl of <hi>Tullibardine,</hi>
+                     </item>
+                     <item>Earl of <hi>Perth.</hi>
+                     </item>
+                     <item>Lord <hi>Couper.</hi>
+                     </item>
+                     <item>Lord <hi>Cardrosse.</hi>
+                     </item>
+                     <item>Laird of <hi>Inchmartene,</hi>
+                     </item>
+                     <item>Laird of <hi>Balthayok.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>3 Regia. for the Sheriffedom of <hi>Starling, &amp;c.</hi>
+                  <list>
+                     <item>Earle of <hi>Callender,</hi>
+                     </item>
+                     <item>Laird of <hi>Clakmannaine</hi> junior.</item>
+                     <item>Laird of <hi>Palmais</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>2 Reg. for the Sheriffedom of <hi>Lithgow.</hi>
+                  <list>
+                     <item>Lord <hi>Levingston</hi>
+                     </item>
+                     <item>Lord <hi>Bargany.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>3 Regiam. for the Sheriffedom of <hi>Argile.</hi>
+                  <list>
+                     <item>Marquesse of <hi>Arguile</hi>
+                     </item>
+                     <item>Laird of <hi>Glenurquhy,</hi> jun.</item>
+                     <item>Laird of <hi>Kilbarnic</hi>
+                     </item>
+                  </list>
+               </item>
+               <pb n="5" facs="tcp:116813:4"/>
+               <item> 2 Reg. for the Sheriffedom of <hi>Bute.</hi>
+                  <list>
+                     <item>Sheriffe of <hi>Bute.</hi>
+                     </item>
+                     <item>Col. <hi>John Hamilton.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>3 Reg. for the Sheriffedom of <hi>Wighton, &amp;c.</hi>
+                  <list>
+                     <item>Viscount of <hi>Kenmur</hi>
+                     </item>
+                     <item>Lord <hi>Garleis.</hi>
+                     </item>
+                     <item>Laird of <hi>Garthland</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>6 Regiam. for the Sheriffedom of <hi>Air, &amp;c.</hi>
+                  <list>
+                     <item>Earl <hi>Loudoun</hi> Chans.</item>
+                     <item>Earle <hi>Glencairne</hi>
+                     </item>
+                     <item>Earl <hi>Eglington</hi>
+                     </item>
+                     <item>Earl <hi>Cassillis,</hi>
+                     </item>
+                     <item>Lord <hi>Rosse</hi>
+                     </item>
+                     <item>Lord <hi>Cochram.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>9 Reg. for the Sheriffedom of <hi>Aberdeene, &amp;c.</hi>
+                  <list>
+                     <item>Earle of <hi>Arroll</hi>
+                     </item>
+                     <item>Earle of <hi>Mershell</hi>
+                     </item>
+                     <item>Viscount of <hi>Frendraught</hi>
+                     </item>
+                     <item>Lord <hi>Halgertoun</hi>
+                     </item>
+                     <item>Master of <hi>Forbs</hi>
+                     </item>
+                     <item>Laird of <hi>Philorth</hi>
+                     </item>
+                     <item>Laird of <hi>Morphic</hi>
+                     </item>
+                     <item>Col. Hen. <hi>Mauld</hi>
+                     </item>
+                     <item>Col. George <hi>Keith</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>2 Regiaments for <hi>Orkney &amp;c.</hi>
+                  <list>
+                     <item>Earle of <hi>Mortan</hi>
+                     </item>
+                     <item>Lord <hi>Dalkeith.</hi>
+                     </item>
+                  </list>
+               </item>
+               <pb n="6" facs="tcp:116813:5"/>
+               <item> 2 Reg. for the Sheriffedom of <hi>Kaithnes</hi>
+                  <list>
+                     <item>Laird of <hi>Morkill</hi>
+                     </item>
+                     <item>Col. <hi>Fan. Sinclaire</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>4 Reg. for the Sheriffedom of <hi>Innernes, &amp;c.</hi>
+                  <list>
+                     <item>Col. <hi>Mac Kenʒic</hi>
+                     </item>
+                     <item>Sir <hi>James Fraseir</hi>
+                     </item>
+                     <item>Laird of <hi>Kilrawich</hi>
+                     </item>
+                     <item>Sheriffe of <hi>Cromarthic.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>4 Reg. for the Sheriffedom of <hi>Elgine, &amp;c.</hi>
+                  <list>
+                     <item>Earle of <hi>Murray</hi>
+                     </item>
+                     <item>Sheriffe of <hi>Murrah</hi>
+                     </item>
+                     <item>Laird of <hi>Innis</hi>
+                     </item>
+                     <item>Laird of <hi>Duffus.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>3 Reg. for the Sheriffedom of <hi>Sutherland, &amp;c.</hi>
+                  <list>
+                     <item>Earle of <hi>Sutherland</hi>
+                     </item>
+                     <item>Laird of <hi>Balnagoun</hi>
+                     </item>
+                     <item>Laird of <hi>Lamliar.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>2 Regiam. for the Sheriffedom of <hi>Bamff.</hi>
+                  <list>
+                     <item>Earle of <hi>Findlater</hi>
+                     </item>
+                     <item>Lord <hi>Bamff</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>1 Regiam. for the City of <hi>Edinburgh.</hi>
+                  <list>
+                     <item>The Provost of <hi>Edinburgh.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>In all 91 Regiaments of Horse and Foot.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
